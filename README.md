@@ -1,4 +1,4 @@
-# how-and-why-russian-apps-search-for-vpns-on-users-phones
+# About this repo
 
 This is automated translation of article from RKS Global. Please visit their website and feel free to share both links.
 
@@ -6,7 +6,7 @@ Link to the original article in Russian: https://rks.global/ru/research/vpn-dete
 
 Link to this translation: https://github.com/mitsuha44/how-and-why-russian-apps-search-for-vpns-on-users-phones/blob/main/README.md
 
----
+# Full article bellow
 
 ## RKS Global
 
