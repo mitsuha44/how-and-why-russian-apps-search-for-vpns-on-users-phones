@@ -1,3 +1,7 @@
+> [!NOTE]
+> RKS Global has translated the article.
+> You can read the official translation here: https://rks.global/en/research/vpn-detection/
+
 # About this repo
 
 This is automated translation of article from RKS Global. Please visit their website and feel free to share both links.
